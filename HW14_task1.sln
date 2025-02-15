@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW14_task1", "HW14_task1.csproj", "{B37E29A6-9EC1-4A33-9B58-0F12CB018912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW14_task1_library", "..\HW14_task1_library\HW14_task1_library.csproj", "{59012FF2-9025-460C-B6A4-A1E541EF1EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37E29A6-9EC1-4A33-9B58-0F12CB018912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37E29A6-9EC1-4A33-9B58-0F12CB018912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37E29A6-9EC1-4A33-9B58-0F12CB018912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37E29A6-9EC1-4A33-9B58-0F12CB018912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59012FF2-9025-460C-B6A4-A1E541EF1EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59012FF2-9025-460C-B6A4-A1E541EF1EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59012FF2-9025-460C-B6A4-A1E541EF1EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59012FF2-9025-460C-B6A4-A1E541EF1EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
